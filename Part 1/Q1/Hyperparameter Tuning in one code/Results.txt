@@ -1,0 +1,245 @@
+C=2, E=300, LR=1e-05, batch=100
+37/37 [==============================] - 0s 2ms/step - loss: 1.7462 - accuracy: 0.5681
+Test Accuracy: 0.5681
+train acc:  0.7416510171074407
+validation acc:  0.6230213939153475
+test loss:  1.7462420463562012
+test accuracy:  0.5680751204490662
+C=2, E=300, LR=1e-05, batch=50
+73/73 [==============================] - 0s 2ms/step - loss: 1.6879 - accuracy: 0.5846
+Test Accuracy: 0.5846
+train acc:  0.8462826060426646
+validation acc:  0.7603292891074871
+test loss:  1.687890887260437
+test accuracy:  0.58464515209198
+C=2, E=300, LR=1e-05, batch=10
+363/363 [==============================] - 1s 3ms/step - loss: 1.9472 - accuracy: 0.5841
+Test Accuracy: 0.5841
+train acc:  0.9662707599025531
+validation acc:  0.7717588256311545
+test loss:  1.94720458984375
+test accuracy:  0.5840927958488464
+C=2, E=300, LR=0.0001, batch=100
+37/37 [==============================] - 0s 2ms/step - loss: 2.4154 - accuracy: 0.5255
+Test Accuracy: 0.5255
+train acc:  0.9539007159835058
+validation acc:  0.7234042671555323
+test loss:  2.4154000282287598
+test accuracy:  0.5255454182624817
+C=2, E=300, LR=0.0001, batch=50
+73/73 [==============================] - 0s 3ms/step - loss: 3.2222 - accuracy: 0.5510
+Test Accuracy: 0.5510
+train acc:  0.9954888601954892
+validation acc:  0.6783476263927899
+test loss:  3.222238302230835
+test accuracy:  0.5509527921676636
+C=2, E=300, LR=0.0001, batch=10
+363/363 [==============================] - 1s 3ms/step - loss: 3.6013 - accuracy: 0.5777
+Test Accuracy: 0.5777
+train acc:  0.9944141060113907
+validation acc:  0.7482511401176453
+test loss:  3.6013400554656982
+test accuracy:  0.5777409672737122
+C=2, E=300, LR=0.01, batch=100
+37/37 [==============================] - 0s 2ms/step - loss: 3.9455 - accuracy: 0.0566
+Test Accuracy: 0.0566
+train acc:  0.07451086465654702
+validation acc:  0.08590629825304294
+test loss:  3.9455206394195557
+test accuracy:  0.05661419406533241
+C=2, E=300, LR=0.01, batch=50
+73/73 [==============================] - 0s 3ms/step - loss: 3.8844 - accuracy: 0.0608
+Test Accuracy: 0.0608
+train acc:  0.08758322838630286
+validation acc:  0.07624133022775423
+test loss:  3.8843557834625244
+test accuracy:  0.06075669825077057
+C=2, E=300, LR=0.01, batch=10
+363/363 [==============================] - 1s 3ms/step - loss: 4.2540 - accuracy: 0.0610
+Test Accuracy: 0.0610
+train acc:  0.07001738472820852
+validation acc:  0.07931657286640555
+test loss:  4.2540283203125
+test accuracy:  0.061032865196466446
+C=2, E=60, LR=1e-05, batch=100
+37/37 [==============================] - 0s 2ms/step - loss: 2.8633 - accuracy: 0.3510
+Test Accuracy: 0.3510
+train acc:  0.473763458914571
+validation acc:  0.3928705686098569
+test loss:  2.8632681369781494
+test accuracy:  0.35100799798965454
+C=2, E=60, LR=1e-05, batch=50
+73/73 [==============================] - 0s 2ms/step - loss: 2.5172 - accuracy: 0.4187
+Test Accuracy: 0.4187
+train acc:  0.5037536649142995
+validation acc:  0.5437818344901589
+test loss:  2.517207622528076
+test accuracy:  0.41866886615753174
+C=2, E=60, LR=1e-05, batch=10
+363/363 [==============================] - 1s 3ms/step - loss: 2.1462 - accuracy: 0.5173
+Test Accuracy: 0.5173
+train acc:  0.5523116644424728
+validation acc:  0.44992067625251
+test loss:  2.1462254524230957
+test accuracy:  0.5172604322433472
+C=2, E=60, LR=0.0001, batch=100
+2023-11-16 13:30:20.030736: W tensorflow/core/data/root_dataset.cc:266] Optimization loop failed: CANCELLED: Operation was cancelled
+37/37 [==============================] - 0s 3ms/step - loss: 1.8111 - accuracy: 0.5465
+Test Accuracy: 0.5465
+train acc:  0.7746470846371979
+validation acc:  0.7413772394888511
+test loss:  1.8111003637313843
+test accuracy:  0.5465341210365295
+C=2, E=60, LR=0.0001, batch=50
+73/73 [==============================] - 0s 3ms/step - loss: 1.8711 - accuracy: 0.5719
+Test Accuracy: 0.5719
+train acc:  0.8542552782863867
+validation acc:  0.7398764297610424
+test loss:  1.8710867166519165
+test accuracy:  0.5719414353370667
+C=2, E=60, LR=0.0001, batch=10
+363/363 [==============================] - 1s 3ms/step - loss: 2.0042 - accuracy: 0.5678
+Test Accuracy: 0.5678
+train acc:  0.8871414454198191
+validation acc:  0.6806262552482376
+test loss:  2.004157066345215
+test accuracy:  0.5677989721298218
+C=2, E=60, LR=0.01, batch=100
+37/37 [==============================] - 0s 2ms/step - loss: 3.9190 - accuracy: 0.0566
+Test Accuracy: 0.0566
+train acc:  0.08934856510283995
+validation acc:  0.050903121579666526
+test loss:  3.919013738632202
+test accuracy:  0.05661419406533241
+C=2, E=60, LR=0.01, batch=50
+73/73 [==============================] - 0s 2ms/step - loss: 3.9776 - accuracy: 0.0608
+Test Accuracy: 0.0608
+train acc:  0.0930472240821358
+validation acc:  0.03695604653135773
+test loss:  3.97756290435791
+test accuracy:  0.06075669825077057
+C=2, E=60, LR=0.01, batch=10
+363/363 [==============================] - 1s 3ms/step - loss: 4.0752 - accuracy: 0.0351
+Test Accuracy: 0.0351
+train acc:  0.07349731773138046
+validation acc:  0.045828925583649566
+test loss:  4.07515287399292
+test accuracy:  0.035073183476924896
+C=2, E=10, LR=1e-05, batch=100
+37/37 [==============================] - 0s 3ms/step - loss: 3.6249 - accuracy: 0.1036
+Test Accuracy: 0.1036
+train acc:  0.13027946782832064
+validation acc:  0.2222419928215193
+test loss:  3.62485933303833
+test accuracy:  0.10356254875659943
+C=2, E=10, LR=1e-05, batch=50
+73/73 [==============================] - 0s 3ms/step - loss: 3.5240 - accuracy: 0.1535
+Test Accuracy: 0.1535
+train acc:  0.14711274906080596
+validation acc:  0.2186993907909004
+test loss:  3.524029493331909
+test accuracy:  0.15354874730110168
+C=2, E=10, LR=1e-05, batch=10
+363/363 [==============================] - 1s 3ms/step - loss: 3.1988 - accuracy: 0.2530
+Test Accuracy: 0.2530
+train acc:  0.30321389844543056
+validation acc:  0.32060015212772486
+test loss:  3.19884991645813
+test accuracy:  0.25296878814697266
+C=2, E=10, LR=0.0001, batch=100
+37/37 [==============================] - 0s 2ms/step - loss: 2.7580 - accuracy: 0.3985
+Test Accuracy: 0.3985
+train acc:  0.501894289655108
+validation acc:  0.47248922032342217
+test loss:  2.7580132484436035
+test accuracy:  0.3985086977481842
+C=2, E=10, LR=0.0001, batch=50
+73/73 [==============================] - 0s 2ms/step - loss: 2.3997 - accuracy: 0.4424
+Test Accuracy: 0.4424
+train acc:  0.5480873191649197
+validation acc:  0.6136594824264386
+test loss:  2.3997039794921875
+test accuracy:  0.44241923093795776
+C=2, E=10, LR=0.0001, batch=10
+363/363 [==============================] - 1s 3ms/step - loss: 2.0330 - accuracy: 0.5667
+Test Accuracy: 0.5667
+train acc:  0.6812854613128462
+validation acc:  0.514664561994243
+test loss:  2.0330488681793213
+test accuracy:  0.5666942596435547
+C=2, E=10, LR=0.01, batch=100
+37/37 [==============================] - 0s 2ms/step - loss: 3.7929 - accuracy: 0.0608
+Test Accuracy: 0.0608
+train acc:  0.08840038389881526
+validation acc:  0.06483708763128099
+test loss:  3.792872667312622
+test accuracy:  0.06075669825077057
+C=2, E=10, LR=0.01, batch=50
+73/73 [==============================] - 0s 2ms/step - loss: 3.8749 - accuracy: 0.0610
+Test Accuracy: 0.0610
+train acc:  0.06786698016343982
+validation acc:  0.07873670431743761
+test loss:  3.8749377727508545
+test accuracy:  0.061032865196466446
+C=2, E=10, LR=0.01, batch=10
+363/363 [==============================] - 1s 3ms/step - loss: 4.1463 - accuracy: 0.0610
+Test Accuracy: 0.0610
+train acc:  0.06724137864236174
+validation acc:  0.06896551801212902
+test loss:  4.146329879760742
+test accuracy:  0.061032865196466446
+C=6, E=300, LR=1e-05, batch=100
+37/37 [==============================] - 0s 2ms/step - loss: 1.6624 - accuracy: 0.5822
+Test Accuracy: 0.5822
+train acc:  0.7292448669889094
+validation acc:  0.6788050402711755
+test loss:  1.6623759269714355
+test accuracy:  0.5821596384048462
+C=6, E=300, LR=1e-05, batch=50
+73/73 [==============================] - 0s 3ms/step - loss: 1.6003 - accuracy: 0.5918
+Test Accuracy: 0.5918
+train acc:  0.741066721875938
+validation acc:  0.6511276551790162
+test loss:  1.6003365516662598
+test accuracy:  0.5918254852294922
+C=6, E=300, LR=1e-05, batch=10
+363/363 [==============================] - 1s 3ms/step - loss: 1.4741 - accuracy: 0.6578
+Test Accuracy: 0.6578
+train acc:  0.8841939290508258
+validation acc:  0.7413864374345491
+test loss:  1.4741017818450928
+test accuracy:  0.6578293442726135
+C=6, E=300, LR=0.0001, batch=100
+2023-11-16 20:54:34.227676: W tensorflow/core/data/root_dataset.cc:266] Optimization loop failed: CANCELLED: Operation was cancelled
+2023-11-16 21:06:30.870060: W tensorflow/core/data/root_dataset.cc:266] Optimization loop failed: CANCELLED: Operation was cancelled
+2023-11-16 21:06:30.920087: W tensorflow/core/data/root_dataset.cc:266] Optimization loop failed: CANCELLED: Operation was cancelled
+2023-11-16 21:06:30.963543: W tensorflow/core/data/root_dataset.cc:266] Optimization loop failed: CANCELLED: Operation was cancelled
+2023-11-16 21:06:33.230889: W tensorflow/core/data/root_dataset.cc:266] Optimization loop failed: CANCELLED: Operation was cancelled
+2023-11-16 21:06:33.275805: W tensorflow/core/data/root_dataset.cc:266] Optimization loop failed: CANCELLED: Operation was cancelled
+2023-11-16 21:08:19.352092: W tensorflow/core/data/root_dataset.cc:266] Optimization loop failed: CANCELLED: Operation was cancelled
+2023-11-16 21:08:19.421412: W tensorflow/core/data/root_dataset.cc:266] Optimization loop failed: CANCELLED: Operation was cancelled
+2023-11-16 21:08:20.223888: W tensorflow/core/data/root_dataset.cc:266] Optimization loop failed: CANCELLED: Operation was cancelled
+2023-11-16 21:08:20.283714: W tensorflow/core/data/root_dataset.cc:266] Optimization loop failed: CANCELLED: Operation was cancelled
+2023-11-16 21:11:25.337657: W tensorflow/core/data/root_dataset.cc:266] Optimization loop failed: CANCELLED: Operation was cancelled
+2023-11-16 21:11:25.374530: W tensorflow/core/data/root_dataset.cc:266] Optimization loop failed: CANCELLED: Operation was cancelled
+2023-11-16 21:18:12.319714: W tensorflow/core/data/root_dataset.cc:266] Optimization loop failed: CANCELLED: Operation was cancelled
+2023-11-16 21:18:35.355541: W tensorflow/core/data/root_dataset.cc:266] Optimization loop failed: CANCELLED: Operation was cancelled
+2023-11-16 21:18:39.137564: W tensorflow/core/data/root_dataset.cc:266] Optimization loop failed: CANCELLED: Operation was cancelled
+2023-11-16 21:18:39.170957: W tensorflow/core/data/root_dataset.cc:266] Optimization loop failed: CANCELLED: Operation was cancelled
+2023-11-16 21:18:39.204561: W tensorflow/core/data/root_dataset.cc:266] Optimization loop failed: CANCELLED: Operation was cancelled
+2023-11-16 21:18:39.246017: W tensorflow/core/data/root_dataset.cc:266] Optimization loop failed: CANCELLED: Operation was cancelled
+37/37 [==============================] - 0s 2ms/step - loss: 1.9890 - accuracy: 0.6001
+Test Accuracy: 0.6001
+train acc:  0.967854054844273
+validation acc:  0.7314641149381974
+test loss:  1.9889999628067017
+test accuracy:  0.6001104712486267
+C=6, E=300, LR=0.0001, batch=50
+2023-11-16 22:16:26.284677: W tensorflow/core/data/root_dataset.cc:266] Optimization loop failed: CANCELLED: Operation was cancelled
+73/73 [==============================] - 0s 2ms/step - loss: 2.0628 - accuracy: 0.6484
+Test Accuracy: 0.6484
+train acc:  0.9920131653230241
+validation acc:  0.775365451612371
+test loss:  2.0628082752227783
+test accuracy:  0.6484396457672119
+C=6, E=300, LR=0.0001, batch=10
